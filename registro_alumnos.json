@@ -1,0 +1,36 @@
+[
+    {
+        "nombre": "alexis",
+        "notas": [
+            20,
+            18
+        ],
+        "nota maxima": 20,
+        "nota minima": 18,
+        "promedio": 19.0
+    },
+    {
+        "nombre": "omar",
+        "notas": [
+            10,
+            12,
+            11
+        ],
+        "nota maxima": 12,
+        "nota minima": 10,
+        "promedio": 11.0
+    },
+    {
+        "nombre": "Gheraly",
+        "notas": [
+            20,
+            19,
+            18,
+            17,
+            16
+        ],
+        "nota maxima": 20,
+        "nota minima": 16,
+        "promedio": 18.0
+    }
+]

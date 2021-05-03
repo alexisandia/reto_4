@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Jeancarlos",
+        "edad": "30",
+        "dni": "12345678"
+    },
+    {
+        "nombre": "Elsa",
+        "edad": "20",
+        "dni": "12345678"
+    }
+]
